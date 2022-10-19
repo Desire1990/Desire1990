@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Desire1990
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Desos-Wajos
+- 🌱 Full  stack developper in bespoke technology
+- 👀 I’m interested in python programming to automate some kinds of tasks 
+- 🌱 I’m currently learning ML and AI using python as programming language
+- 💞️ I’m looking to collaborate on data science and analytic
+- 📫 How to reach me 
+     - contact me on mail : desnduwimim26@gmail.com
+     - or whatsapp me on https://wa.me/25779462806
 
 <!---
 Desire1990/Desire1990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
