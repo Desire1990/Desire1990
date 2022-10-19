@@ -1,5 +1,11 @@
 - 👋 Hi, I’m @Desos-Wajos
 - 🌱 Full  stack developper in bespoke technology
+- 👩‍💻 Technology used:
+    🕸️ Web Development:
+          -Language: Python, JavaScript, sometimes Java
+          -FrameWork: Django, Django  restframework, Vuejs
+    📱mobile development: Ionics
+    
 - 👀 I’m interested in python programming to automate some kinds of tasks 
 - 🌱 I’m currently learning ML and AI using python as programming language
 - 💞️ I’m looking to collaborate on data science and analytic
