@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Desos-Wajos
 - 🌱 Full  stack developper in bespoke technology
-- 👩‍💻 Technology used:
+- 👩‍💻 Technologies used:
     - 🕸️ Web Development:
           - Language: 
                 - Python, 
@@ -17,7 +17,7 @@
     
 - 👀 I’m interested in python programming to automate some kinds of tasks 
 - 🌱 I’m currently learning ML and AI using python as programming language
-- 💞️ I’m looking to collaborate on data science and analytic
+- 💞️ I’m looking to collaborate on data sciences and analytics
 - 📫 How to reach me 
      - contact me on mail : desnduwimim26@gmail.com
      - or whatsapp me on  : https://wa.me/25779462806
